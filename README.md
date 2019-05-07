@@ -1,4 +1,5 @@
-# faq
+# FAQ Part 2
+
 To run the FAQ project 
 
 1. git clone https://github.com/dguardia/faq.git
